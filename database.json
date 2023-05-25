@@ -1,0 +1,2108 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "albumNumber": 1,
+      "albumName": "Taylor Swift",
+      "songName": "Tim McGraw",
+      "trackNumber": 1,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 2,
+      "albumNumber": 1,
+      "albumName": "Taylor Swift",
+      "songName": "Picture To Burn",
+      "trackNumber": 2,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 3,
+      "albumNumber": 1,
+      "albumName": "Taylor Swift",
+      "songName": "Teardrops On My Guitar",
+      "trackNumber": 3,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 4,
+      "albumNumber": 1,
+      "albumName": "Taylor Swift",
+      "songName": "A Place In This World",
+      "trackNumber": 4,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 5,
+      "albumNumber": 1,
+      "albumName": "Taylor Swift",
+      "songName": "Cold As You",
+      "trackNumber": 5,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 6,
+      "albumNumber": 1,
+      "albumName": "Taylor Swift",
+      "songName": "The Outside",
+      "trackNumber": 6,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 7,
+      "albumNumber": 1,
+      "albumName": "Taylor Swift",
+      "songName": "Tied Together With A Smile",
+      "trackNumber": 7,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 8,
+      "albumNumber": 1,
+      "albumName": "Taylor Swift",
+      "songName": "Stay Beautiful",
+      "trackNumber": 8,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 9,
+      "albumNumber": 1,
+      "albumName": "Taylor Swift",
+      "songName": "Should've Said No",
+      "trackNumber": 9,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 10,
+      "albumNumber": 1,
+      "albumName": "Taylor Swift",
+      "songName": "Mary's Song (Oh My My My)",
+      "trackNumber": 10,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 11,
+      "albumNumber": 1,
+      "albumName": "Taylor Swift",
+      "songName": "Our Song",
+      "trackNumber": 11,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 12,
+      "albumNumber": 1,
+      "albumName": "Taylor Swift",
+      "songName": "I'm Only Me When I'm With You",
+      "trackNumber": 12,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 13,
+      "albumNumber": 1,
+      "albumName": "Taylor Swift",
+      "songName": "Invisible",
+      "trackNumber": 13,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 14,
+      "albumNumber": 1,
+      "albumName": "Taylor Swift",
+      "songName": "A Perfectly Good Heart",
+      "trackNumber": 14,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 15,
+      "albumNumber": 1,
+      "albumName": "Taylor Swift",
+      "songName": "Teardrops On My Guitar (Pop Version)",
+      "trackNumber": 15,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 16,
+      "albumNumber": 2,
+      "albumName": "The Taylor Swift Holiday Collection",
+      "songName": "Last Christmas",
+      "trackNumber": 1,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 17,
+      "albumNumber": 2,
+      "albumName": "The Taylor Swift Holiday Collection",
+      "songName": "Christmases When You Were Mine",
+      "trackNumber": 2,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 18,
+      "albumNumber": 2,
+      "albumName": "The Taylor Swift Holiday Collection",
+      "songName": "Santa Baby",
+      "trackNumber": 3,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 19,
+      "albumNumber": 2,
+      "albumName": "The Taylor Swift Holiday Collection",
+      "songName": "Silent Night",
+      "trackNumber": 4,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 20,
+      "albumNumber": 2,
+      "albumName": "The Taylor Swift Holiday Collection",
+      "songName": "Christmas Must Be Something More",
+      "trackNumber": 5,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 21,
+      "albumNumber": 2,
+      "albumName": "The Taylor Swift Holiday Collection",
+      "songName": "White Christmas",
+      "trackNumber": 6,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 22,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "Breathe (Taylor's Version)",
+      "trackNumber": 7,
+      "artist": "Taylor Swift",
+      "featuringName": "Colbie Caillat"
+    },
+    {
+      "id": 23,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "That's When (Taylor's Version) [From The Vault]",
+      "trackNumber": 24,
+      "artist": "Taylor Swift",
+      "featuringName": "Keith Urban"
+    },
+    {
+      "id": 24,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "You All Over Me (Taylor's Version) [From The Vault]",
+      "trackNumber": 21,
+      "artist": "Taylor Swift",
+      "featuringName": "Maren Morris"
+    },
+    {
+      "id": 25,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "Fearless (Taylor's Version)",
+      "trackNumber": 1,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 26,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "Fifteen (Taylor's Version)",
+      "trackNumber": 2,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 27,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "Love Story (Taylor's Version)",
+      "trackNumber": 3,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 28,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "Hey Stephen (Taylor's Version)",
+      "trackNumber": 4,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 29,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "White Horse (Taylor's Version)",
+      "trackNumber": 5,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 30,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "You Belong With Me (Taylor's Version)",
+      "trackNumber": 6,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 31,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "Tell Me Why (Taylor's Version)",
+      "trackNumber": 8,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 32,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "You're Not Sorry (Taylor's Version)",
+      "trackNumber": 9,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 33,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "The Way I Loved You (Taylor's Version)",
+      "trackNumber": 10,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 34,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "Forever & Always (Taylor's Version)",
+      "trackNumber": 11,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 35,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "The Best Day (Taylor's Version)",
+      "trackNumber": 12,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 36,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "Change (Taylor's Version)",
+      "trackNumber": 13,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 37,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "Jump Then Fall (Taylor's Version)",
+      "trackNumber": 14,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 38,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "Untouchable (Taylor's Version)",
+      "trackNumber": 15,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 39,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "Forever & Always (Piano Version) [Taylor's Version]",
+      "trackNumber": 16,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 40,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "Come In With The Rain (Taylor's Version)",
+      "trackNumber": 17,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 41,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "SuperStar (Taylor's Version)",
+      "trackNumber": 18,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 42,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "The Other Side Of The Door (Taylor's Version)",
+      "trackNumber": 19,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 43,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "Today Was A Fairytale (Taylor's Version)",
+      "trackNumber": 20,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 44,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "Mr. Perfectly Fine (Taylor's Version) [From The Vault]",
+      "trackNumber": 22,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 45,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "We Were Happy (Taylor's Version) [From The Vault]",
+      "trackNumber": 23,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 46,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "Don't You (Taylor's Version) [From The Vault]",
+      "trackNumber": 25,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 47,
+      "albumNumber": 3,
+      "albumName": "Fearless (Taylor's Version)",
+      "songName": "Bye Bye Baby (Taylor's Version) [From The Vault]",
+      "trackNumber": 26,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 48,
+      "albumNumber": 4,
+      "albumName": "Speak Now",
+      "songName": "Mine",
+      "trackNumber": 1,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 49,
+      "albumNumber": 4,
+      "albumName": "Speak Now",
+      "songName": "Sparks Fly",
+      "trackNumber": 2,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 50,
+      "albumNumber": 4,
+      "albumName": "Speak Now",
+      "songName": "Back To December",
+      "trackNumber": 3,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 51,
+      "albumNumber": 4,
+      "albumName": "Speak Now",
+      "songName": "Speak Now",
+      "trackNumber": 4,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 52,
+      "albumNumber": 4,
+      "albumName": "Speak Now",
+      "songName": "Dear John",
+      "trackNumber": 5,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 53,
+      "albumNumber": 4,
+      "albumName": "Speak Now",
+      "songName": "Mean",
+      "trackNumber": 6,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 54,
+      "albumNumber": 4,
+      "albumName": "Speak Now",
+      "songName": "The Story Of Us",
+      "trackNumber": 7,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 55,
+      "albumNumber": 4,
+      "albumName": "Speak Now",
+      "songName": "Never Grow Up",
+      "trackNumber": 8,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 56,
+      "albumNumber": 4,
+      "albumName": "Speak Now",
+      "songName": "Enchanted",
+      "trackNumber": 9,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 57,
+      "albumNumber": 4,
+      "albumName": "Speak Now",
+      "songName": "Better Than Revenge",
+      "trackNumber": 10,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 58,
+      "albumNumber": 4,
+      "albumName": "Speak Now",
+      "songName": "Innocent",
+      "trackNumber": 11,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 59,
+      "albumNumber": 4,
+      "albumName": "Speak Now",
+      "songName": "Haunted",
+      "trackNumber": 12,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 60,
+      "albumNumber": 4,
+      "albumName": "Speak Now",
+      "songName": "Last Kiss",
+      "trackNumber": 13,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 61,
+      "albumNumber": 4,
+      "albumName": "Speak Now",
+      "songName": "Long Live",
+      "trackNumber": 14,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 62,
+      "albumNumber": 4,
+      "albumName": "Speak Now",
+      "songName": "Ours",
+      "trackNumber": 15,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 63,
+      "albumNumber": 4,
+      "albumName": "Speak Now",
+      "songName": "If This Was A Movie",
+      "trackNumber": 16,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 64,
+      "albumNumber": 4,
+      "albumName": "Speak Now",
+      "songName": "Superman",
+      "trackNumber": 17,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 65,
+      "albumNumber": 4,
+      "albumName": "Speak Now",
+      "songName": "Back To December (Acoustic Version)",
+      "trackNumber": 18,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 66,
+      "albumNumber": 4,
+      "albumName": "Speak Now",
+      "songName": "Haunted (Acoustic Version)",
+      "trackNumber": 19,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 67,
+      "albumNumber": 4,
+      "albumName": "Speak Now",
+      "songName": "Mine - Pop Mix",
+      "trackNumber": 20,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 68,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "I Bet You Think About Me (Taylor's Version) [From The Vault]",
+      "trackNumber": 26,
+      "artist": "Taylor Swift",
+      "featuringName": "Chris Stapleton"
+    },
+    {
+      "id": 69,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "Everything Has Changed (Taylor's Version)",
+      "trackNumber": 14,
+      "artist": "Taylor Swift",
+      "featuringName": "Ed Sheeran"
+    },
+    {
+      "id": 70,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "Run (Taylor's Version) [From The Vault]",
+      "trackNumber": 28,
+      "artist": "Taylor Swift",
+      "featuringName": "Ed Sheeran"
+    },
+    {
+      "id": 71,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "The Last Time (Taylor's Version)",
+      "trackNumber": 10,
+      "artist": "Taylor Swift",
+      "featuringName": "Gary Lightbody"
+    },
+    {
+      "id": 72,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "State Of Grace (Taylor's Version)",
+      "trackNumber": 1,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 73,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "Red (Taylor's Version)",
+      "trackNumber": 2,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 74,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "Treacherous (Taylor's Version)",
+      "trackNumber": 3,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 75,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "I Knew You Were Trouble (Taylor's Version)",
+      "trackNumber": 4,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 76,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "All Too Well (Taylor's Version)",
+      "trackNumber": 5,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 77,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "22 (Taylor's Version)",
+      "trackNumber": 6,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 78,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "I Almost Do (Taylor's Version)",
+      "trackNumber": 7,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 79,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "We Are Never Ever Getting Back Together (Taylor's Version)",
+      "trackNumber": 8,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 80,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "Stay Stay Stay (Taylor's Version)",
+      "trackNumber": 9,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 81,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "Holy Ground (Taylor's Version)",
+      "trackNumber": 11,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 82,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "Sad Beautiful Tragic (Taylor's Version)",
+      "trackNumber": 12,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 83,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "The Lucky One (Taylor's Version)",
+      "trackNumber": 13,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 84,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "Starlight (Taylor's Version)",
+      "trackNumber": 15,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 85,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "Begin Again (Taylor's Version)",
+      "trackNumber": 16,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 86,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "The Moment I Knew (Taylor's Version)",
+      "trackNumber": 17,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 87,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "Come Back...Be Here (Taylor's Version)",
+      "trackNumber": 18,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 88,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "Girl At Home (Taylor's Version)",
+      "trackNumber": 19,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 89,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "State Of Grace (Acoustic Version) [Taylor's Version]",
+      "trackNumber": 20,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 90,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "Ronan (Taylor's Version)",
+      "trackNumber": 21,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 91,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "Better Man (Taylor's Version) [From The Vault]",
+      "trackNumber": 22,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 92,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "Babe (Taylor's Version) [From The Vault]",
+      "trackNumber": 24,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 93,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "Message In A Bottle (Taylor's Version) [From The Vault]",
+      "trackNumber": 25,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 94,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "Forever Winter (Taylor's Version) [From The Vault]",
+      "trackNumber": 27,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 95,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "The Very First Night (Taylor's Version) [From The Vault]",
+      "trackNumber": 29,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 96,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "All Too Well (10 Minute Version) [Taylor's Version] [From The Vault]",
+      "trackNumber": 30,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 97,
+      "albumNumber": 5,
+      "albumName": "Red (Taylor's Version)",
+      "songName": "Nothing New (Taylor's Version) [From The Vault]",
+      "trackNumber": 23,
+      "artist": "Taylor Swift",
+      "featuringName": "Phoebe Bridgers"
+    },
+    {
+      "id": 98,
+      "albumNumber": 6,
+      "albumName": 1989,
+      "songName": "Welcome To New York",
+      "trackNumber": 1,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 99,
+      "albumNumber": 6,
+      "albumName": 1989,
+      "songName": "Blank Space",
+      "trackNumber": 2,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 100,
+      "albumNumber": 6,
+      "albumName": 1989,
+      "songName": "Style",
+      "trackNumber": 3,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 101,
+      "albumNumber": 6,
+      "albumName": 1989,
+      "songName": "Out Of The Woods",
+      "trackNumber": 4,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 102,
+      "albumNumber": 6,
+      "albumName": 1989,
+      "songName": "All You Had To Do Was Stay",
+      "trackNumber": 5,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 103,
+      "albumNumber": 6,
+      "albumName": 1989,
+      "songName": "Shake It Off",
+      "trackNumber": 6,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 104,
+      "albumNumber": 6,
+      "albumName": 1989,
+      "songName": "I Wish You Would",
+      "trackNumber": 7,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 105,
+      "albumNumber": 6,
+      "albumName": 1989,
+      "songName": "Bad Blood",
+      "trackNumber": 8,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 106,
+      "albumNumber": 6,
+      "albumName": 1989,
+      "songName": "Wildest Dreams",
+      "trackNumber": 9,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 107,
+      "albumNumber": 6,
+      "albumName": 1989,
+      "songName": "How You Get The Girl",
+      "trackNumber": 10,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 108,
+      "albumNumber": 6,
+      "albumName": 1989,
+      "songName": "This Love",
+      "trackNumber": 11,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 109,
+      "albumNumber": 6,
+      "albumName": 1989,
+      "songName": "I Know Places",
+      "trackNumber": 12,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 110,
+      "albumNumber": 6,
+      "albumName": 1989,
+      "songName": "Clean",
+      "trackNumber": 13,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 111,
+      "albumNumber": 6,
+      "albumName": 1989,
+      "songName": "Wonderland",
+      "trackNumber": 14,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 112,
+      "albumNumber": 6,
+      "albumName": 1989,
+      "songName": "You Are In Love",
+      "trackNumber": 15,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 113,
+      "albumNumber": 6,
+      "albumName": 1989,
+      "songName": "New Romantics",
+      "trackNumber": 16,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 114,
+      "albumNumber": 6,
+      "albumName": 1989,
+      "songName": "I Know Places - Voice Memo",
+      "trackNumber": 17,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 115,
+      "albumNumber": 6,
+      "albumName": 1989,
+      "songName": "I Wish You Would - Voice Memo",
+      "trackNumber": 18,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 116,
+      "albumNumber": 6,
+      "albumName": 1989,
+      "songName": "Blank Space - Voice Memo",
+      "trackNumber": 19,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 117,
+      "albumNumber": 7,
+      "albumName": "reputation",
+      "songName": "End Game",
+      "trackNumber": 2,
+      "artist": "Taylor Swift",
+      "featuringName": "Ed Sheeran, Future"
+    },
+    {
+      "id": 118,
+      "albumNumber": 7,
+      "albumName": "reputation",
+      "songName": "...Ready For It?",
+      "trackNumber": 1,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 119,
+      "albumNumber": 7,
+      "albumName": "reputation",
+      "songName": "I Did Something Bad",
+      "trackNumber": 3,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 120,
+      "albumNumber": 7,
+      "albumName": "reputation",
+      "songName": "Don't Blame Me",
+      "trackNumber": 4,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 121,
+      "albumNumber": 7,
+      "albumName": "reputation",
+      "songName": "Delicate",
+      "trackNumber": 5,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 122,
+      "albumNumber": 7,
+      "albumName": "reputation",
+      "songName": "Look What You Made Me Do",
+      "trackNumber": 6,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 123,
+      "albumNumber": 7,
+      "albumName": "reputation",
+      "songName": "So It Goes...",
+      "trackNumber": 7,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 124,
+      "albumNumber": 7,
+      "albumName": "reputation",
+      "songName": "Gorgeous",
+      "trackNumber": 8,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 125,
+      "albumNumber": 7,
+      "albumName": "reputation",
+      "songName": "Getaway Car",
+      "trackNumber": 9,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 126,
+      "albumNumber": 7,
+      "albumName": "reputation",
+      "songName": "King Of My Heart",
+      "trackNumber": 10,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 127,
+      "albumNumber": 7,
+      "albumName": "reputation",
+      "songName": "Dancing With Our Hands Tied",
+      "trackNumber": 11,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 128,
+      "albumNumber": 7,
+      "albumName": "reputation",
+      "songName": "Dress",
+      "trackNumber": 12,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 129,
+      "albumNumber": 7,
+      "albumName": "reputation",
+      "songName": "This Is Why We Can't Have Nice Things",
+      "trackNumber": 13,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 130,
+      "albumNumber": 7,
+      "albumName": "reputation",
+      "songName": "Call It What You Want",
+      "trackNumber": 14,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 131,
+      "albumNumber": 7,
+      "albumName": "reputation",
+      "songName": "New Year's Day",
+      "trackNumber": 15,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 132,
+      "albumNumber": 8,
+      "albumName": "Lover",
+      "songName": "ME!",
+      "trackNumber": 16,
+      "artist": "Taylor Swift",
+      "featuringName": "Brendon Urie, Panic! At The Disco"
+    },
+    {
+      "id": 133,
+      "albumNumber": 8,
+      "albumName": "Lover",
+      "songName": "I Forgot That You Existed",
+      "trackNumber": 1,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 134,
+      "albumNumber": 8,
+      "albumName": "Lover",
+      "songName": "Cruel Summer",
+      "trackNumber": 2,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 135,
+      "albumNumber": 8,
+      "albumName": "Lover",
+      "songName": "Lover",
+      "trackNumber": 3,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 136,
+      "albumNumber": 8,
+      "albumName": "Lover",
+      "songName": "The Man",
+      "trackNumber": 4,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 137,
+      "albumNumber": 8,
+      "albumName": "Lover",
+      "songName": "The Archer",
+      "trackNumber": 5,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 138,
+      "albumNumber": 8,
+      "albumName": "Lover",
+      "songName": "I Think He Knows",
+      "trackNumber": 6,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 139,
+      "albumNumber": 8,
+      "albumName": "Lover",
+      "songName": "Miss Americana & The Heartbreak Prince",
+      "trackNumber": 7,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 140,
+      "albumNumber": 8,
+      "albumName": "Lover",
+      "songName": "Paper Rings",
+      "trackNumber": 8,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 141,
+      "albumNumber": 8,
+      "albumName": "Lover",
+      "songName": "Cornelia Street",
+      "trackNumber": 9,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 142,
+      "albumNumber": 8,
+      "albumName": "Lover",
+      "songName": "Death By A Thousand Cuts",
+      "trackNumber": 10,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 143,
+      "albumNumber": 8,
+      "albumName": "Lover",
+      "songName": "London Boy",
+      "trackNumber": 11,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 144,
+      "albumNumber": 8,
+      "albumName": "Lover",
+      "songName": "False God",
+      "trackNumber": 13,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 145,
+      "albumNumber": 8,
+      "albumName": "Lover",
+      "songName": "You Need To Calm Down",
+      "trackNumber": 14,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 146,
+      "albumNumber": 8,
+      "albumName": "Lover",
+      "songName": "Afterglow",
+      "trackNumber": 15,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 147,
+      "albumNumber": 8,
+      "albumName": "Lover",
+      "songName": "It's Nice To Have A Friend",
+      "trackNumber": 17,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 148,
+      "albumNumber": 8,
+      "albumName": "Lover",
+      "songName": "Daylight",
+      "trackNumber": 18,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 149,
+      "albumNumber": 8,
+      "albumName": "Lover",
+      "songName": "Soon You'll Get Better",
+      "trackNumber": 12,
+      "artist": "Taylor Swift",
+      "featuringName": "The Chicks"
+    },
+    {
+      "id": 150,
+      "albumNumber": 9,
+      "albumName": "folklore",
+      "songName": "exile",
+      "trackNumber": 4,
+      "artist": "Taylor Swift",
+      "featuringName": "Bon Iver"
+    },
+    {
+      "id": 151,
+      "albumNumber": 9,
+      "albumName": "folklore",
+      "songName": "the 1",
+      "trackNumber": 1,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 152,
+      "albumNumber": 9,
+      "albumName": "folklore",
+      "songName": "cardigan",
+      "trackNumber": 2,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 153,
+      "albumNumber": 9,
+      "albumName": "folklore",
+      "songName": "the last great american dynasty",
+      "trackNumber": 3,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 154,
+      "albumNumber": 9,
+      "albumName": "folklore",
+      "songName": "my tears ricochet",
+      "trackNumber": 5,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 155,
+      "albumNumber": 9,
+      "albumName": "folklore",
+      "songName": "mirrorball",
+      "trackNumber": 6,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 156,
+      "albumNumber": 9,
+      "albumName": "folklore",
+      "songName": "seven",
+      "trackNumber": 7,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 157,
+      "albumNumber": 9,
+      "albumName": "folklore",
+      "songName": "august",
+      "trackNumber": 8,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 158,
+      "albumNumber": 9,
+      "albumName": "folklore",
+      "songName": "this is me trying",
+      "trackNumber": 9,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 159,
+      "albumNumber": 9,
+      "albumName": "folklore",
+      "songName": "illicit affairs",
+      "trackNumber": 10,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 160,
+      "albumNumber": 9,
+      "albumName": "folklore",
+      "songName": "invisible string",
+      "trackNumber": 11,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 161,
+      "albumNumber": 9,
+      "albumName": "folklore",
+      "songName": "mad woman",
+      "trackNumber": 12,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 162,
+      "albumNumber": 9,
+      "albumName": "folklore",
+      "songName": "epiphany",
+      "trackNumber": 13,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 163,
+      "albumNumber": 9,
+      "albumName": "folklore",
+      "songName": "betty",
+      "trackNumber": 14,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 164,
+      "albumNumber": 9,
+      "albumName": "folklore",
+      "songName": "peace",
+      "trackNumber": 15,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 165,
+      "albumNumber": 9,
+      "albumName": "folklore",
+      "songName": "hoax",
+      "trackNumber": 16,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 166,
+      "albumNumber": 9,
+      "albumName": "folklore",
+      "songName": "the lakes",
+      "trackNumber": 17,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 167,
+      "albumNumber": 10,
+      "albumName": "evermore",
+      "songName": "evermore",
+      "trackNumber": 15,
+      "artist": "Taylor Swift",
+      "featuringName": "Bon Iver"
+    },
+    {
+      "id": 168,
+      "albumNumber": 10,
+      "albumName": "evermore",
+      "songName": "no body, no crime",
+      "trackNumber": 6,
+      "artist": "Taylor Swift",
+      "featuringName": "HAIM"
+    },
+    {
+      "id": 169,
+      "albumNumber": 10,
+      "albumName": "evermore",
+      "songName": "willow",
+      "trackNumber": 1,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 170,
+      "albumNumber": 10,
+      "albumName": "evermore",
+      "songName": "champagne problems",
+      "trackNumber": 2,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 171,
+      "albumNumber": 10,
+      "albumName": "evermore",
+      "songName": "gold rush",
+      "trackNumber": 3,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 172,
+      "albumNumber": 10,
+      "albumName": "evermore",
+      "songName": "'tis the damn season",
+      "trackNumber": 4,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 173,
+      "albumNumber": 10,
+      "albumName": "evermore",
+      "songName": "tolerate it",
+      "trackNumber": 5,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 174,
+      "albumNumber": 10,
+      "albumName": "evermore",
+      "songName": "happiness",
+      "trackNumber": 7,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 175,
+      "albumNumber": 10,
+      "albumName": "evermore",
+      "songName": "dorothea",
+      "trackNumber": 8,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 176,
+      "albumNumber": 10,
+      "albumName": "evermore",
+      "songName": "ivy",
+      "trackNumber": 10,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 177,
+      "albumNumber": 10,
+      "albumName": "evermore",
+      "songName": "cowboy like me",
+      "trackNumber": 11,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 178,
+      "albumNumber": 10,
+      "albumName": "evermore",
+      "songName": "long story short",
+      "trackNumber": 12,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 179,
+      "albumNumber": 10,
+      "albumName": "evermore",
+      "songName": "marjorie",
+      "trackNumber": 13,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 180,
+      "albumNumber": 10,
+      "albumName": "evermore",
+      "songName": "closure",
+      "trackNumber": 14,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 181,
+      "albumNumber": 10,
+      "albumName": "evermore",
+      "songName": "right where you left me",
+      "trackNumber": 16,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 182,
+      "albumNumber": 10,
+      "albumName": "evermore",
+      "songName": "it's time to go",
+      "trackNumber": 17,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 183,
+      "albumNumber": 10,
+      "albumName": "evermore",
+      "songName": "coney island",
+      "trackNumber": 9,
+      "artist": "Taylor Swift",
+      "featuringName": "The National"
+    },
+    {
+      "id": 184,
+      "albumNumber": 11,
+      "albumName": "Midnights",
+      "songName": "Snow On The Beach",
+      "trackNumber": 4,
+      "artist": "Taylor Swift",
+      "featuringName": "Lana Del Rey"
+    },
+    {
+      "id": 185,
+      "albumNumber": 11,
+      "albumName": "Midnights",
+      "songName": "Lavender Haze",
+      "trackNumber": 1,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 186,
+      "albumNumber": 11,
+      "albumName": "Midnights",
+      "songName": "Maroon",
+      "trackNumber": 2,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 187,
+      "albumNumber": 11,
+      "albumName": "Midnights",
+      "songName": "Anti-Hero",
+      "trackNumber": 3,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 188,
+      "albumNumber": 11,
+      "albumName": "Midnights",
+      "songName": "You're On Your Own, Kid",
+      "trackNumber": 5,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 189,
+      "albumNumber": 11,
+      "albumName": "Midnights",
+      "songName": "Midnight Rain",
+      "trackNumber": 6,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 190,
+      "albumNumber": 11,
+      "albumName": "Midnights",
+      "songName": "Question...?",
+      "trackNumber": 7,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 191,
+      "albumNumber": 11,
+      "albumName": "Midnights",
+      "songName": "Vigilante Shit",
+      "trackNumber": 8,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 192,
+      "albumNumber": 11,
+      "albumName": "Midnights",
+      "songName": "Bejeweled",
+      "trackNumber": 9,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 193,
+      "albumNumber": 11,
+      "albumName": "Midnights",
+      "songName": "Labyrinth",
+      "trackNumber": 10,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 194,
+      "albumNumber": 11,
+      "albumName": "Midnights",
+      "songName": "Karma",
+      "trackNumber": 11,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 195,
+      "albumNumber": 11,
+      "albumName": "Midnights",
+      "songName": "Sweet Nothing",
+      "trackNumber": 12,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 196,
+      "albumNumber": 11,
+      "albumName": "Midnights",
+      "songName": "Mastermind",
+      "trackNumber": 13,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 197,
+      "albumNumber": 11,
+      "albumName": "Midnights",
+      "songName": "The Great War",
+      "trackNumber": 14,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 198,
+      "albumNumber": 11,
+      "albumName": "Midnights",
+      "songName": "Bigger Than The Whole Sky",
+      "trackNumber": 15,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 199,
+      "albumNumber": 11,
+      "albumName": "Midnights",
+      "songName": "Paris",
+      "trackNumber": 16,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 200,
+      "albumNumber": 11,
+      "albumName": "Midnights",
+      "songName": "High Infidelity",
+      "trackNumber": 17,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 201,
+      "albumNumber": 11,
+      "albumName": "Midnights",
+      "songName": "Glitch",
+      "trackNumber": 18,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 202,
+      "albumNumber": 11,
+      "albumName": "Midnights",
+      "songName": "Would've, Could've, Should've",
+      "trackNumber": 19,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 203,
+      "albumNumber": 11,
+      "albumName": "Midnights",
+      "songName": "Dear Reader",
+      "trackNumber": 20,
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 204,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Bad Blood (Remix)",
+      "trackNumber": "",
+      "artist": "Taylor Swift",
+      "featuringName": "Kendrick Lamar"
+    },
+    {
+      "id": 205,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Beautiful Ghosts",
+      "trackNumber": "",
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 206,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Carolina",
+      "trackNumber": "",
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 207,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Christmas Tree Farm",
+      "trackNumber": "",
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 208,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Crazier",
+      "trackNumber": "",
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 209,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Eyes Open",
+      "trackNumber": "",
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 210,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Only The Young",
+      "trackNumber": "",
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 211,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Ronan",
+      "trackNumber": "",
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 212,
+      "albumNumber": 12,
+      "albumName": "NA",
+      "songName": "September",
+      "trackNumber": "",
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 213,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Sweeter Than Fiction",
+      "trackNumber": "",
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 214,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "This Love (Taylor's Version)",
+      "trackNumber": "",
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 215,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Today Was A Fairytale",
+      "trackNumber": "",
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 216,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Wildest Dreams (Taylor's Version)",
+      "trackNumber": "",
+      "artist": "Taylor Swift",
+      "featuringName": ""
+    },
+    {
+      "id": 217,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Half Of My Heart",
+      "trackNumber": "",
+      "artist": "John Mayer",
+      "featuringName": ""
+    },
+    {
+      "id": 218,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Lover (Remix)",
+      "trackNumber": "",
+      "artist": "Taylor Swift",
+      "featuringName": "Shawn Mendes"
+    },
+    {
+      "id": 219,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "I Don't Wanna Live Forever",
+      "trackNumber": "",
+      "artist": "ZAYN",
+      "featuringName": "Taylor Swift"
+    },
+    {
+      "id": 220,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Babe",
+      "trackNumber": "",
+      "artist": "Sugarland",
+      "featuringName": "Taylor Swift"
+    },
+    {
+      "id": 221,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Birch",
+      "trackNumber": "",
+      "artist": "Big Red Machine",
+      "featuringName": "Taylor Swift"
+    },
+    {
+      "id": 222,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Both Of Us",
+      "trackNumber": "",
+      "artist": "B.o.B",
+      "featuringName": "Taylor Swift"
+    },
+    {
+      "id": 223,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Gasoline (Remix)",
+      "trackNumber": "",
+      "artist": "HAIM",
+      "featuringName": "Taylor Swift"
+    },
+    {
+      "id": 224,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Renegade",
+      "trackNumber": "",
+      "artist": "Big Red Machine",
+      "featuringName": "Taylor Swift"
+    },
+    {
+      "id": 225,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Two Is Better Than One",
+      "trackNumber": "",
+      "artist": "Boys Like Girls",
+      "featuringName": "Taylor Swift"
+    },
+    {
+      "id": 226,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "The Joker And The Queen",
+      "trackNumber": "",
+      "artist": "Ed Sheeran",
+      "featuringName": "Taylor Swift"
+    },
+    {
+      "id": 227,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Highway Don't Care",
+      "trackNumber": "",
+      "artist": "Tim McGraw",
+      "featuringName": "Taylor Swift, Keith Urban"
+    },
+    {
+      "id": 228,
+      "albumNumber": 12,
+      "albumName": "Singles / Collaborations",
+      "songName": "Safe & Sound",
+      "trackNumber": "",
+      "artist": "Taylor Swift",
+      "featuringName": "The Civil Wars"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Jenny Kitchen",
+      "email": "jennykayekitchen@gmail.com",
+      "isAdmin": true
+    },
+    {
+      "id": 2,
+      "fullName": "Devan Dewar",
+      "email": "devandewar@gmail.com",
+      "isAdmin": false
+    },
+    {
+      "id": 3,
+      "fullName": "Katie Kines",
+      "email": "katiekines@gmail.com",
+      "isAdmin": false
+    }
+  ],
+  "tags": [
+    {
+      "name": "You're a liar, and pathetic, and alone in life, and mean.",
+      "userId": 3,
+      "description": "Dedicated to my ex.",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Feeling 38",
+      "description": "Happy birthday to me!"
+    },
+    {
+      "id": 4,
+      "name": "Starry Eyes Sparking Up My Darkest Night",
+      "description": "For that fun time when you meet someone new and everything feels fun and giggly and exciting."
+    },
+    {
+      "name": "Best Believe I'm Still Bejeweled",
+      "userId": 3,
+      "description": "I polish up real nice.",
+      "id": 5
+    }
+  ],
+  "taggedSongs": [
+    {
+      "userId": 3,
+      "songId": 1,
+      "tagId": 2,
+      "id": 1
+    }
+  ]
+}
